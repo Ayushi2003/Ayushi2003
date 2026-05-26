@@ -14,7 +14,9 @@
 
 - 💬 Ask me about **Java, Python, SQL, Next.js, React.js, and Technical Troubleshooting**.
 
-- 📫 How to reach me: **bansalayushi2003@gmail.com** - 😄 Pronouns: **She/Her**
+- 📫 How to reach me: **bansalayushi2003@gmail.com**
+
+- 😄 Pronouns: **She/Her**
 
 - 📄 Want a deeper dive into my experience? **[Check out my resume here](./Ayushi_Bansal_Resume.pdf)**.
 
