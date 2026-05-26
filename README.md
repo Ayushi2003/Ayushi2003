@@ -1,26 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ayushi</h1>
+ <h1 align="center">Hi 👋, I'm Ayushi</h1>
 
-<h3 align="center">Customer-centric Associate Support Engineer </h3>
+ <h3 align="center">Customer-centric Support Engineer</h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi2003&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi2003" /> </p>
 
-- 🎓 I recently graduated with a **Bachelor of Engineering in Computer Science (9.75 CGPA)** from **Chitkara University**.
+### 👩‍💻 About Me
+-  😄 Pronouns: **She/Her**.
+-  🎓 I graduated with a **Bachelor of Engineering in Computer Science (9.75 CGPA)** from **Chitkara University**.
+-  💼 I’m currently working as an **Associate Support Engineer** at **Edifecs Technologies**.
+-  🛠️ I specialize in enterprise software support, technical troubleshooting, and solution development.
+-  💻 I recently built a **Terminal Based Portfolio** using **Next.js, TypeScript, React.js, and Tailwind CSS**.
+-  💬 Ask me about **Java, Python, SQL, Next.js, React.js, and Node.js**.
+-  📫 How to reach me: **bansalayushi2003@gmail.com**
+-  📄 Want a deeper dive into my experience? **[Check out my resume here](./Ayushi_Bansal_Resume.pdf)**.
 
-- 💼 I’m currently working as an **Associate Support Engineer** at **Edifecs Technologies**.
+### 🚀 Featured Projects
+-  **[Terminal Based Portfolio](https://github.com/Ayushi2003)**: Engineered an interactive, terminal-like web interface utilizing the Next.js and React.js ecosystem with advanced styling.
+-  **[Replica - An iPhone Simulator](https://github.com/Ayushi2003)**: Architected an iOS 14 simulator web application replicating real-time core application functionality and complex gesture recognition.
+-  **[Planetary Pounds](https://github.com/Ayushi2003)**: Built a client-facing utility tool utilizing client-side technologies to calculate dynamic data across the Solar System.
 
-- 💻 I recently built a **Terminal Based Portfolio** using **Next.js, TypeScript, React.js, and Tailwind CSS**.
-
-- 💬 Ask me about **Java, Python, SQL, Next.js, React.js, and Technical Troubleshooting**.
-
-- 📫 How to reach me: **bansalayushi2003@gmail.com**
-
-- 😄 Pronouns: **She/Her**
-
-- 📄 Want a deeper dive into my experience? **[Check out my resume here](./Ayushi_Bansal_Resume.pdf)**.
-
-<h2>Connect with me <img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
+<h3 align="left">Connect with me <img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 
 <p align="left">
 <a href="mailto:bansalayushi2003@gmail.com">
@@ -44,6 +45,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
