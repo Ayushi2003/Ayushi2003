@@ -12,11 +12,11 @@
 
 - 💻 I recently built a **Terminal Based Portfolio** using **Next.js, TypeScript, React.js, and Tailwind CSS**.
 
-- 💬 Ask me about **Java, Python, SQL, Next.js, React.js, and Technical Troubleshooting**[cite: 79, 81].
+- 💬 Ask me about **Java, Python, SQL, Next.js, React.js, and Technical Troubleshooting**.
 
-- 📫 How to reach me: **bansalayushi2003@gmail.com** 
+- 📫 How to reach me: **bansalayushi2003@gmail.com** - 😄 Pronouns: **She/Her**
 
-- 😄 Pronouns: **She/Her**
+- 📄 Want a deeper dive into my experience? **[Check out my resume here](./Ayushi_Bansal_Resume.pdf)**.
 
 <h2>Connect with me <img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
 
@@ -47,5 +47,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi2003&" alt="ayushi2003" /></p>
